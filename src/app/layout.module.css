@@ -1,0 +1,14 @@
+.header_content {
+    text-align: center;
+    font-size: x-large;
+    margin: 5px;
+  }
+  
+  .header_bar {
+    border-right: 1px rgba(200, 200, 200, 0.8) solid;
+    height: 100%;
+  }
+  
+.footer {
+    display: block;
+  }
